@@ -1,5 +1,7 @@
 ### Hi, i'am Pedro Lucas
 
+
+
 <div align="center">
   <h2>My languages on GitHub</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=300&langs_count=8&theme=github_dark&hide_border=true&username=Pelluca&hide=jupyter%20notebook,tex" height="150" alt="languages graph"  />
@@ -11,6 +13,8 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
 ##
+My social networks
+
 <div>
   <a href="https://www.instagram.com/pedrollucas.fr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedro.ferreira11259@alunos.ufersa.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
