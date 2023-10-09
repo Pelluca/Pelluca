@@ -1,10 +1,10 @@
 ### Hi, i'am Pedro Lucas
 
-- I am a BTI student at Ufersa (Federal Rural University of Semi-Árido)
+- I am a Information Technology student at Ufersa (Federal Rural University of Semi-Árido);
 
-- Future game developer
+- I aim to be a gamer developer;
 
-- I love the technological area and especially the game creation part
+- I'm fascinated in computer sciences studies, specially the game creation area. 
 
 <div align="center">
   <h2>My languages on GitHub</h2>
