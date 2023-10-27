@@ -1,6 +1,6 @@
 ### Hi, i'am Pedro Lucas
 
-- I am a Information Technology student at UFERSA (Federal Rural University of Semi-Árido);
+- I am a Information Technology student at UFERSA (Federal Rural University of Semi-Arid);
 
 - I aim to be a gamer developer;
 
